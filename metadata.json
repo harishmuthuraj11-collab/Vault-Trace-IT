@@ -1,0 +1,6 @@
+{
+  "name": "VaultTrace IT",
+  "description": "Secure laptop asset tracking and cybersecurity management application for organizations to register, monitor, and protect company laptops.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
